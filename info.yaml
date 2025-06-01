@@ -9,11 +9,10 @@ project:
 
   tiles: "1x1"
 
-  top_module:  "tt_um_vendingfsm_jobanleu"
+  top_module:  "tt_um_example"
 
   source_files:
-    - "vending_fsm_top.v"
-    - "tt_um_vendingfsm_jobanleu.v"
+    - "project.v"
 
 pinout:
   # Inputs
